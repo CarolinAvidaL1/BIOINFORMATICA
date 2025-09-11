@@ -1,0 +1,200 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "544f87d0-259a-4ef8-9c66-dc2dea949350",
+   "metadata": {},
+   "source": [
+    "# PRIMER NOTEBOOK"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "eace4ca5-3013-479e-ad40-58e8cd92a057",
+   "metadata": {},
+   "source": [
+    "### Este es mi primer notebook y voy a hacer lo siguiente"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "3c48d8b8-7f99-45dd-9611-97e42f534eb0",
+   "metadata": {},
+   "source": [
+    "#### Una lista **enumerada** :"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "126e02da-ee11-4544-b681-9890a7987131",
+   "metadata": {},
+   "source": [
+    "###### 1. Primero"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b1325656-2735-437d-9042-61b12fd5a890",
+   "metadata": {},
+   "source": [
+    "###### 2. Segundo"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a54e90f0-ed5a-44a3-88d4-4ef1fe8be78d",
+   "metadata": {},
+   "source": [
+    "###### 3. Tercero"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "2b9bc5d9-d4b6-46bb-98f2-03ceb66dcf67",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "e9d17ca4-4e4c-4c27-81e4-1f80d0abc2fd",
+   "metadata": {},
+   "source": [
+    "### Una lista por **puntos**:"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "69cc33f6-9d0d-403f-b826-13e56c4282bc",
+   "metadata": {},
+   "source": [
+    "  - Primero"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "c761ea4d-a673-4af0-87f1-dece0e74141e",
+   "metadata": {},
+   "source": [
+    "- Segundo"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "2cbbbdfd-d9c9-4872-9886-fdaf70354fd7",
+   "metadata": {},
+   "source": [
+    "- Tercero"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "3ba6cd10-c68f-49e1-a645-8a744a77b60d",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "0d2154ac-06b1-4c9a-a0d0-d0f23f5d8e80",
+   "metadata": {},
+   "source": [
+    "#### Mi primer código:"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "f2327fd4-04b4-470d-9173-f107c16e8e96",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "mi_primera_frase = \"Hello world\""
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "466a429a-c3b5-4dc6-8bda-d6c6613ea346",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'Hello world'"
+      ]
+     },
+     "execution_count": 6,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "mi_primera_frase"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "036e31f5-5675-4bbe-858c-faff19fc87c2",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "efc227a7-cd17-4534-ac30-ee058a222328",
+   "metadata": {},
+   "source": [
+    "#### Finalizamos con una bonita imagen:"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "dd34144a-2ad1-4f47-9176-72429f581df4",
+   "metadata": {},
+   "source": [
+    "![llama](https://media.istockphoto.com/id/532529153/es/foto/alpacas.jpg?s=2048x2048&w=is&k=20&c=T4y6z1wSjf8n4KZcZU6gM-mL55FOxeEwe2-zl31PjR8=)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "5d0be958-cd9d-49de-9a15-36e5f90ad6c9",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "8f8a313a-d2d1-4419-adbb-dd1d00d2a05a",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python [conda env:base] *",
+   "language": "python",
+   "name": "conda-base-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.13.5"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
